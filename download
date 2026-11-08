@@ -1,7 +1,0 @@
-data/
-outputs/
-__pycache__/
-*.pyc
-*.zip
-.env
-.ipynb_checkpoints/
